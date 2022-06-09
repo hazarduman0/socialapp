@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31669362439",
+    "project_id": "sociaapp-3cdb1",
+    "storage_bucket": "sociaapp-3cdb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31669362439:android:f5acfcc2e63488cf342fa2",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31669362439-ue1jgh8ga8mf49j1k7t0flepmfftdedl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkZuO_P52NVgK9IQEECphPrs3FbeB9mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31669362439-ue1jgh8ga8mf49j1k7t0flepmfftdedl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
